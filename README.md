@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator app made with Java
+Simple calculator app made with Java(Swing)
